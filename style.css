@@ -1,0 +1,60 @@
+html{
+    background-color: black;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+body{
+    margin: 0;
+}
+.header{
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    padding: 25px 15px;
+    margin-bottom: 20px;
+}
+.logo{
+    font-size: 40px;
+    color: white
+}
+.name{
+    padding-left: 10px;
+    font-size: 30px;
+    color: white;
+}
+.list{
+    background-color: grey;
+    margin-bottom: 5px;
+    padding: 20px;
+}
+.alpabet{
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+.thumbnail{
+    display: flex;
+    align-items: center;
+    padding-top: 5px;
+}
+.artist-name{
+    margin-left: 20px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.artist >.thumbnail> img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.artist-name, .detail{
+    color: white;
+}
+.detail{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+.mythink{
+    padding-bottom: 10px;
+    font-size: 20px;
+}
