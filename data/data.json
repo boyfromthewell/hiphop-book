@@ -1,0 +1,28 @@
+{
+    "artists":[
+        {
+            "word":"B",
+            "image":"../imgs/bloo.png",
+            "name":"BLOO",
+            "comment":"블루=하나의 장르 느낌, 최애 랩퍼 1순위",
+            "albums":[
+              "2015.07.01 FRESH AS F",
+              "2015.11.19 7 Gold Chains",
+              "2016.06.18 Tony MIXTAPE",
+              "2017.02.23 Better",
+              "2017.06.24 Hennessy",
+              "2017.12.06 Downtown Baby EP",
+              "2018.04.30 Drink Slow Henny",
+              "2018.06.18 싸가지 (So Rude)",
+              "2018.09.02 데려가",
+              "2018.11.19 BLOO IN WONDERLAND EP",
+              "2019.09.25 It's not Love I'm just Drunk EP",
+              "2020.07.23 Hey, go smile",
+              "2020.09.10 내 탓",
+              "2021.02.04 DRAMA",
+              "2021.03.25 Bloo Story",
+              "2021.06.17 BLOO IN WONDERLAND 2"
+            ]
+        }
+    ]
+}
