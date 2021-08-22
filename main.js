@@ -38,19 +38,18 @@ function createHTMLstring(initialData) {
     <img src="${initialData.image}" class='artist-image'>
     <span class="artist-name">${initialData.name}</span>
     </div>
-    <ul class='detail'>
-      <details>
+    <details><summary>상세</summary>
+    <div class='detail'>
         <li class='mythink'>${initialData.comment}</li>
         <li class='album'>
             음반🔻<br>
             ${initialData.albums.join(`<br>`)} 
         </li>
-      </details>
-    </ul>
+    </div>
+    </details>
 </div>`;
 }
 
 loadItems();
-
 
 //displayArtists();

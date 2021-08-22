@@ -28,11 +28,44 @@
       "word": "C",
       "image": "../imgs/camo.png",
       "name": "CAMO",
-      "comment": "핫 루키, 외힙같은 사운드, 요새 많이 들음",
+      "comment": "핫 루키, 외힙같은 사운드",
       "albums": [
           "2020.03.10 ICE",
           "2020.09.02 Life is wet",
           "2021.05.21 Fragile"
+      ]
+    },
+    {
+      "word": "B",
+      "image": "../imgs/beenzino.png",
+      "name": "Beenzino",
+      "comment": "래퍼들의 래퍼, IAB STUDIO",
+      "albums": [
+          "2012.07.03 24:26",
+          "2013.12.18 Dali, Van, Picasso",
+          "2014.07.16 Up All Night",
+          "2015.03.11 어쩌라고 (so what)",
+          "2015.10.09 Break",
+          "2015.11.30 We Are Going To",
+          "2016.05.31 12",
+          "2019.04.23 OKGO",
+          "2019.07.21 Fashion Hoarder",
+          "2019.10.19 Blurry"
+      ]
+    },
+    {
+      "word": "P",
+      "image": "../imgs/pop smoke.png",
+      "name": "Pop Smoke",
+      "comment": "드릴 붐의 장본인, RIP",
+      "albums": [
+          "2019.07.26 Meet The Woo",
+          "2020.02.07 Meet The Woo 2",
+          "2020.07.03 Shoot For The Stars, Aim For The Moon",
+          "2020.09.22 Mood Swings",
+          "2020.09.30 Enjoy Yourself",
+          "2020.10.07 For The Night",
+          "2021.07.15 Faith" 
       ]
     }
   ]
