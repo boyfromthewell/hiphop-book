@@ -2,7 +2,7 @@
   "artists": [
     {
       "word": "B",
-      "image": "imgs/bloo.png",
+      "image": "./imgs/bloo.png",
       "name": "BLOO",
       "korName":"(블루)",
       "comment": "bloo=하나의 장르 느낌, 최애 랩퍼 1순위",
@@ -27,7 +27,7 @@
     },
     {
       "word": "C",
-      "image": "imgs/camo.png",
+      "image": "./imgs/camo.png",
       "name": "CAMO",
       "korName":"(카모)",
       "comment": "핫 루키, 외힙같은 사운드",
@@ -39,7 +39,7 @@
     },
     {
       "word": "B",
-      "image": "imgs/beenzino.png",
+      "image": "./imgs/beenzino.png",
       "name": "Beenzino",
       "korName":"(빈지노)",
       "comment": "래퍼들의 래퍼, IAB STUDIO",
@@ -58,7 +58,7 @@
     },
     {
       "word": "P",
-      "image": "imgs/pop smoke.png",
+      "image": "./imgs/pop smoke.png",
       "name": "Pop Smoke",
       "korName":"(팝 스모크)",
       "comment": "드릴 붐의 장본인, RIP",
@@ -74,7 +74,7 @@
     },
     {
       "word":"I",
-      "image":"imgs/iu.png",
+      "image":"./imgs/iu.png",
       "name" :"IU",
       "korName":"(아이유)",
       "comment":"국힙 원탑 아이유!",
