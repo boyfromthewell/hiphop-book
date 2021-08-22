@@ -36,7 +36,7 @@ function createHTMLstring(initialData) {
   <div class="artist">
     <div class="thumbnail">
     <img src="${initialData.image}" class='artist-image'>
-    <span class="artist-name">${initialData.name}</span>
+    <span class="artist-name">${initialData.name} ${initialData.korName}</span>
     </div>
     <details><summary>상세</summary>
     <div class='detail'>

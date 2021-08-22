@@ -2,9 +2,10 @@
   "artists": [
     {
       "word": "B",
-      "image": "../imgs/bloo.png",
+      "image": "imgs/bloo.png",
       "name": "BLOO",
-      "comment": "블루=하나의 장르 느낌, 최애 랩퍼 1순위",
+      "korName":"(블루)",
+      "comment": "bloo=하나의 장르 느낌, 최애 랩퍼 1순위",
       "albums": [
         "2015.07.01 FRESH AS F",
         "2015.11.19 7 Gold Chains",
@@ -26,8 +27,9 @@
     },
     {
       "word": "C",
-      "image": "../imgs/camo.png",
+      "image": "imgs/camo.png",
       "name": "CAMO",
+      "korName":"(카모)",
       "comment": "핫 루키, 외힙같은 사운드",
       "albums": [
           "2020.03.10 ICE",
@@ -37,8 +39,9 @@
     },
     {
       "word": "B",
-      "image": "../imgs/beenzino.png",
+      "image": "imgs/beenzino.png",
       "name": "Beenzino",
+      "korName":"(빈지노)",
       "comment": "래퍼들의 래퍼, IAB STUDIO",
       "albums": [
           "2012.07.03 24:26",
@@ -55,8 +58,9 @@
     },
     {
       "word": "P",
-      "image": "../imgs/pop smoke.png",
+      "image": "imgs/pop smoke.png",
       "name": "Pop Smoke",
+      "korName":"(팝 스모크)",
       "comment": "드릴 붐의 장본인, RIP",
       "albums": [
           "2019.07.26 Meet The Woo",
@@ -66,6 +70,30 @@
           "2020.09.30 Enjoy Yourself",
           "2020.10.07 For The Night",
           "2021.07.15 Faith" 
+      ]
+    },
+    {
+      "word":"I",
+      "image":"imgs/iu.png",
+      "name" :"IU",
+      "korName":"(아이유)",
+      "comment":"국힙 원탑 아이유!",
+      "albums":[
+        "2008.09.20 Lost And Found",
+        "2009.04.23 Growing Up",
+        "2009.10.27 IU...IM",
+        "2010.12.09 Real",
+        "2011.02.17 Real+",
+        "2011.11.29 Last Fantasy",
+        "2012.05.11 스무 살의 봄",
+        "2013.10.10 Modern Times",
+        "2013.12.20 Modern Times Epilogue",
+        "2014.05.15 꽃갈피",
+        "2015.10.23 CHAT-SHIRE",
+        "2017.04.21 Palette",
+        "2017.09.22 꽃갈피 둘",
+        "2019.11.18 Love poem",
+        "2021.03.25 LILAC"
       ]
     }
   ]
