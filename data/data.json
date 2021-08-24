@@ -159,6 +159,32 @@
       "korName": "(오케이션)",
       "comment": "새 앨범이 빠를까 남북통일이 빠를까",
       "albums": ["2012.12.06 탑승수속"]
+    },
+    {
+      "word": "S",
+      "image": "./imgs/sun-young.png",
+      "name": "Seon Young",
+      "korName": "(선영이 사랑해용)",
+      "comment": "나는 선영이를 평생 사랑합니다",
+      "albums": ["2021.01.23 순용❤선영"]
+    },
+    {
+      "word": "T",
+      "image": "./imgs/the quiett.png",
+      "name": "The Quiett",
+      "korName": "(더 콰이엇)",
+      "comment": "국힙 리빙 레전드, 게이되는 랩",
+      "albums": [
+        "2005.07.28 Music",
+        "2006.02.03 Q Train",
+        "2007.12.18 The Real Me",
+        "2010.03.11 Quiet Storm : A Night Record",
+        "2013.02.22 AMBITIQN",
+        "2015.10.15 1 Life 2 Live",
+        "2016.04.29 Q Train 2",
+        "2017.05.18 Millionaire Poetry",
+        "2018.09.07 glow forever"
+      ]
     }
   ]
 }
