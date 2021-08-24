@@ -13,8 +13,7 @@ function displayArtists() {
   let htmlString = "";
   const container = document.createElement("div");
   container.setAttribute("class", "name-list");
-  /// let searchString = "";
-
+  //let searchString = document.getElementById("search-box").value;
   let alphabet = "abcdefghijklmnopqrstuvwxyz";
   alphabet = alphabet.toUpperCase();
 
@@ -26,8 +25,6 @@ function displayArtists() {
       }
     }
   }
-
-  console.log(container);
   document.querySelector(".name-list").innerHTML = htmlString;
 }
 
@@ -40,7 +37,7 @@ function createHTMLstring(initialData) {
     </div>
     <details><summary>상세</summary>
     <div class='detail'>
-        <li class='mythink'>${initialData.comment}</li>
+        <li class='mythink'>comment : ${initialData.comment}</li>
         <li class='album'>
             음반🔻<br>
             ${initialData.albums.join(`<br>`)} 
@@ -48,6 +45,27 @@ function createHTMLstring(initialData) {
     </div>
     </details>
 </div>`;
+}
+
+function filter() {
+  let value, name, item;
+
+  value = document.getElementById("search-box").value.toUpperCase();
+  item = document.getElementsByClassName("artist");
+  list = document.querySelectorAll(".artist");
+
+  menuList = document.querySelectorAll(".list");
+
+  for (let i = 0; i < item.length; i++) {
+    name = item[i].getElementsByClassName("artist-name");
+
+    if (name[0].innerHTML.toUpperCase().indexOf(value) > -1) {
+      item[i].style.display = "block";
+      list[i].scrollIntoView({ behavior: "smooth", block:"end", inline:"nearest"});
+    } else {
+      item[i].style.display = "none";
+    }
+  }
 }
 
 loadItems();
