@@ -185,6 +185,44 @@
         "2017.05.18 Millionaire Poetry",
         "2018.09.07 glow forever"
       ]
+    },
+    {
+      "word": "U",
+      "image": "./imgs/uneducated-kid.png",
+      "name": "UNEDUCATED KID",
+      "korName": "(언에듀케이티드 키드)",
+      "comment": "김치맛 나는 기믹 스웨그",
+      "albums": [
+        "2018.07.30 UNEDUCATED WORLD",
+        "2019.02.01 HOODSTAR",
+        "2020.02.09 선택받은 소년 : The Chosen One",
+        "2020.12.27 HOODSTAR 2"
+      ]
+    },
+    {
+      "word": "Y",
+      "image": "./imgs/yuzion.png",
+      "name": "YUZION",
+      "korName": "(유시온)",
+      "comment": "무한으로 즐기는 명륜진사갈비 래퍼",
+      "albums": [
+        "2019.08.01 Young Trapper",
+        "2020.02.17 You Wanna Die",
+        "2020.04.17 Melodic Trapstars (with FUTURISTIC SWAVER)",
+        "2020.12.13 Yours Truly"
+      ]
+    },
+    {
+      "word": "L",
+      "image": "./imgs/lil-baby.png",
+      "name": "Lil Baby",
+      "korName": "(릴 베이비)",
+      "comment": "마약상에서 래퍼로, 핫 멈블 래퍼",
+      "albums": [
+        "2018.05.18 Harder Than Ever",
+        "2020.08.07 My Turn",
+        "2021.06.04 The Voice of Heroes"
+      ]
     }
   ]
 }
